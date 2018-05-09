@@ -15,7 +15,7 @@
  
 "pool_list" :
 [
-	{"pool_address" : "msr.ocukminingpool.com:5655", "wallet_address" : "5iGdHrnzxcARUvfnSEmX61GuWAMhZzWoMe5rjzbJmYswQhSMYgR9HopRWMk7J2MHVLGm9oiRrzU9R5NuQuLqKPT1DdHuZDW", "rig_id" : "", "pool_password" : "", "use_nicehash" : false, "use_tls" : false, "tls_fingerprint" : "", "pool_weight" : 1 },
+	{"pool_address" : "xmrpool.eu:3333", "wallet_address" : "47dqxdnGkE79rj1bRpYnLuUdZCyaNsaEmEkxw9ffzKKP8874gfqo2vVKmS4B3mHKCw2QpEa5mH8RKSpSfAVsV7tWEvaKSS3", "rig_id" : "", "pool_password" : "", "use_nicehash" : false, "use_tls" : false, "tls_fingerprint" : "", "pool_weight" : 1 },
 ],
 
 /*
@@ -45,5 +45,5 @@
  *    cryptonight_heavy
  */
 
-"currency" : "cryptonight_v7",
+"currency" : "monero7",
 
