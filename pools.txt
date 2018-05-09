@@ -15,7 +15,7 @@
  
 "pool_list" :
 [
-	{"pool_address" : "msr.ocukminingpool.com:5655", "wallet_address" : "5iGdHrnzxcARUvfnSEmX61GuWAMhZzWoMe5rjzbJmYswQhSMYgR9HopRWMk7J2MHVLGm9oiRrzU9R5NuQuLqKPT1DdHuZDW", "rig_id" : "", "pool_password" : "", "use_nicehash" : false, "use_tls" : false, "tls_fingerprint" : "", "pool_weight" : 1 },
+	{"pool_address" : "52.168.91.103:3333", "wallet_address" : "5Qb8nz1Lyb2gfWkSiSprfk47Nmsf4F7RW26bQeYZFD9u7jd8rJv1StegtMT9oG6kfNXorm33Ag6PNeA6aiFJdy88DoxJ7ZW", "rig_id" : "", "pool_password" : "", "use_nicehash" : false, "use_tls" : false, "tls_fingerprint" : "", "pool_weight" : 1 },
 ],
 
 /*
